@@ -1,0 +1,6 @@
+0a92d1ccf41206c026a4b5ea6db3447e4716de11 *trusty-core-amd64.tar.gz
+686395e87fee9958e6d4c0f419116db477fa716b *trusty-core-arm64.tar.gz
+b06bf607d11a4743305402fd3385a84639863156 *trusty-core-armhf.tar.gz
+7d45749b085eaf134a41e55a0f1dd75ebb4bf2c6 *trusty-core-i386.tar.gz
+92786ae3e77ad5eb68ffd5d501d14bb234412d74 *trusty-core-powerpc.tar.gz
+27095cc06df8a51ef60d340c59d197185b2f628b *trusty-core-ppc64el.tar.gz
