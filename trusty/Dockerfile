@@ -1,5 +1,5 @@
 FROM scratch
-ADD trusty-core-amd64.tar.gz /
+ADD trusty-core-armhf.tar.gz /
 
 # a few minor docker-specific tweaks
 # see https://github.com/docker/docker/blob/master/contrib/mkimage/debootstrap
