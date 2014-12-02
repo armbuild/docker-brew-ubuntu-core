@@ -14,7 +14,7 @@ versions=( "${versions[@]%/}" )
 for v in "${versions[@]}"; do
 	(
 		cd "$v"
-		thisTarBase="$v-core-amd64"
+		thisTarBase="$v-core-armhf"
 		thisTar="$thisTarBase.tar.gz"
 		baseUrl="http://cdimage.ubuntu.com/ubuntu-core"
 		if [ "$currentDaily" != "$v" ]; then
